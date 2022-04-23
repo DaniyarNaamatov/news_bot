@@ -1,0 +1,92 @@
+{
+    "531280": {
+        "article_date_timestamp": 1650726408.0,
+        "article_title": "Google запретит записывать звонки на Android-смартфонах",
+        "article_url": "https://www.securitylab.ru/news/531280.php",
+        "article_desc": "Из магазина приложений для Android-смартфонов исчезнут сервисы для записи звонков."
+    },
+    "531279": {
+        "article_date_timestamp": 1650725037.0,
+        "article_title": "Минцифры  должно завершить разработку российского магазина приложений до 1 июня 2022 г.",
+        "article_url": "https://www.securitylab.ru/news/531279.php",
+        "article_desc": "Сервис станет альтернативой иностранным App Store и Google Play"
+    },
+    "531278": {
+        "article_date_timestamp": 1650719802.0,
+        "article_title": "Обнаружена критическая уязвимость в Cisco Umbrella VA",
+        "article_url": "https://www.securitylab.ru/news/531278.php",
+        "article_desc": "Удаленный атакующий может создавать собственные административные учетные записи"
+    },
+    "531277": {
+        "article_date_timestamp": 1650713400.0,
+        "article_title": "«Подходы к проектированию подсистем обеспечения безопасности КИИ»",
+        "article_url": "https://www.securitylab.ru/news/531277.php",
+        "article_desc": "Компании Digital Design и Лаборатория Касперского приглашают к участию в вебинаре, который состоится 28 апреля в 11:00."
+    },
+    "531276": {
+        "article_date_timestamp": 1650699383.0,
+        "article_title": "В промышленных продуктах компании Elcomplus обнаружены критические уязвимости",
+        "article_url": "https://www.securitylab.ru/news/531276.php",
+        "article_desc": "Список уязвимостей включает обход пути, межсайтовое выполнение сценариев, произвольную загрузку файлов и пр."
+    },
+    "531275": {
+        "article_date_timestamp": 1650689539.0,
+        "article_title": "Банки будут возвращать клиентам украденные деньги в течение 30 дней",
+        "article_url": "https://www.securitylab.ru/news/531275.php",
+        "article_desc": "Регулятор считает, что это позволит соблюсти баланс интересов банков и их клиентов."
+    },
+    "531274": {
+        "article_date_timestamp": 1650686906.0,
+        "article_title": "Разговоры об импортозамещении: сетевые средства защиты информации «Кода Безопасности»",
+        "article_url": "https://www.securitylab.ru/news/531274.php",
+        "article_desc": "Примите участие во второй онлайн-встречи из цикла «Разговоры об импортозамещении» от «Ростелеком-Солар»"
+    },
+    "531273": {
+        "article_date_timestamp": 1650685050.0,
+        "article_title": "Криптобиржа Binance тайно сотрудничала с российскими спецслужбами",
+        "article_url": "https://www.securitylab.ru/news/531273.php",
+        "article_desc": "Криптобиржа Binance тайно сотрудничала с ФСБ"
+    },
+    "531269": {
+        "article_date_timestamp": 1650622739.0,
+        "article_title": "Cisco исправила три уязвимости в TelePresence, RoomOS и Umbrella VA",
+        "article_url": "https://www.securitylab.ru/news/531269.php",
+        "article_desc": "Их эксплуатация позволяет вызвать состояние отказа в обслуживании и перехватить контроль над уязвимыми системами."
+    },
+    "531268": {
+        "article_date_timestamp": 1650620716.0,
+        "article_title": "QNAP рассказала, как обезопасить NAS-устройства от атак через уязвимости в Apache HTTP Server",
+        "article_url": "https://www.securitylab.ru/news/531268.php",
+        "article_desc": "В настоящее время QNAP изучает эти уязвимости и готовится вскоре выпустить исправления."
+    },
+    "531267": {
+        "article_date_timestamp": 1650617036.0,
+        "article_title": "Пентагон: Starlink на Украине пробился сквозь «электромагнитную атаку»",
+        "article_url": "https://www.securitylab.ru/news/531267.php",
+        "article_desc": "«Мы должны иметь такую ​​маневренность», — сказал представитель Пентагона."
+    },
+    "531266": {
+        "article_date_timestamp": 1650615041.0,
+        "article_title": "Хакеры забыли забрать криптовалюту на $1 млн после атаки на DeFi-проект",
+        "article_url": "https://www.securitylab.ru/news/531266.php",
+        "article_desc": "Злоумышленники не перевели средства, прежде чем вызвать функцию самоуничтожения смарт-контракта."
+    },
+    "531265": {
+        "article_date_timestamp": 1650612618.0,
+        "article_title": "Хакеры рассылают рекрутерам резюме с внедренным вредоносным ПО more_eggs",
+        "article_url": "https://www.securitylab.ru/news/531265.php",
+        "article_desc": "Вредоносное ПО предположительно разработано группировкой Golden Chickens."
+    },
+    "531264": {
+        "article_date_timestamp": 1650608143.0,
+        "article_title": "Кибервымогатели все чаще стали просить выкуп в Monero",
+        "article_url": "https://www.securitylab.ru/news/531264.php",
+        "article_desc": "Анонимные монеты наподобие Monero ставят полную анонимность участников транзакций выше удобства в использовании."
+    },
+    "531263": {
+        "article_date_timestamp": 1650604513.0,
+        "article_title": "Уязвимость в ALAC позволяет захватить контроль над миллионами Android-устройств",
+        "article_url": "https://www.securitylab.ru/news/531263.php",
+        "article_desc": "С помощью уязвимости хакеры могут выполнить вредоносный код на устройстве с использованием вредоносного аудиофайла."
+    }
+}
