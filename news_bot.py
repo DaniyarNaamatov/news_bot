@@ -3,13 +3,13 @@ import json
 import io
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.utils.markdown import hbold, hunderline, hcode, hlink
-from config import token
+from conf import TOKEN
 from main import check_news_update
 from aiogram.dispatcher.filters import Text
 from aiogram import executor
 import logging
 
-bot = Bot(token=token, parse_mode=types.ParseMode.HTML)
+bot = Bot(token=TOKEN, parse_mode=types.ParseMode.HTML)
 dp = Dispatcher(bot)
 
 @dp.message_handler(commands="start")
