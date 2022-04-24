@@ -1,6 +1,5 @@
 import json
 import requests
-import io
 from bs4 import BeautifulSoup
 from datetime import datetime
 import time
@@ -41,12 +40,12 @@ def get_first_news():
             "article_desc": article_desc
         }
 
-    with io.open("news_dict.json", encoding='utf-8') as file:
+    with open("news_dict.json", "w") as file:
         json.dump(news_dict, file, indent=4, ensure_ascii=False)
 
 
 def check_news_update():
-    with io.open("news_dict.json", encoding='utf-8') as file:
+    with open("news_dict.json", "w") as file:
         news_dict = json.load(file)
 
     headers = {
@@ -96,10 +95,15 @@ def check_news_update():
                 "article_desc": article_desc
             }
 
+    with open("news_dict.json", "w") as file:
+        json.dump(news_dict, file, indent=4, ensure_ascii=False)
+
+    return fresh_news
+
 
 def main():
-    get_first_news()
-    # check_news_update()
+    # get_first_news()
+    check_news_update()
 
 
 if __name__ == '__main__':

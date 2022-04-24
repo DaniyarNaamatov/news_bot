@@ -1,6 +1,5 @@
 import datetime
 import json
-import io
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.utils.markdown import hbold, hunderline, hcode, hlink
 from conf import TOKEN
@@ -25,7 +24,7 @@ async def start(message: types.Message):
 
 @dp.message_handler(Text(equals="Все новости"))
 async def get_all_news(message: types.Message):
-    with io.open("news_dict.json", encoding='utf-8') as file:
+    with open("news_dict.json") as file:
         news_dict = json.load(file)
 
     for k, v in sorted(news_dict.items()):
@@ -41,7 +40,7 @@ async def get_all_news(message: types.Message):
 
 @dp.message_handler(Text(equals="Последние 5 новостей"))
 async def get_last_five_news(message: types.Message):
-    with io.open("news_dict.json", encoding='utf-8') as file:
+    with open("news_dict.json", "w") as file:
         news_dict = json.load(file)
 
     for k, v in sorted(news_dict.items())[-5:]:
@@ -55,7 +54,7 @@ async def get_last_five_news(message: types.Message):
 async def get_fresh_news(message: types.Message):
     fresh_news = check_news_update()
 
-    if len(fresh_news) >= 1:
+    if len(fresh_news) <= 1:
 
         for k, v in sorted(fresh_news.items())[-5:]:
             news = f"{hbold(datetime.datetime.fromtimestamp(v['article_date_timestamp']))}\n" \
