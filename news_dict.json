@@ -1,92 +1,92 @@
 {
-    "531280": {
-        "article_date_timestamp": 1650726408.0,
-        "article_title": "Google запретит записывать звонки на Android-смартфонах",
-        "article_url": "https://www.securitylab.ru/news/531280.php",
-        "article_desc": "Из магазина приложений для Android-смартфонов исчезнут сервисы для записи звонков."
+    "531325": {
+        "article_date_timestamp": 1650961643.0,
+        "article_title": "Иранская APT эксплуатировала уязвимость в VMware для установки бэкдора Core Impact",
+        "article_url": "https://www.securitylab.ru/news/531325.php",
+        "article_desc": "Критическая уязвимость CVE-2022-22954 получила оценку в 9,8 балла из максимальных 10 по шкале CVSS."
     },
-    "531279": {
-        "article_date_timestamp": 1650725037.0,
-        "article_title": "Минцифры  должно завершить разработку российского магазина приложений до 1 июня 2022 г.",
-        "article_url": "https://www.securitylab.ru/news/531279.php",
-        "article_desc": "Сервис станет альтернативой иностранным App Store и Google Play"
+    "531324": {
+        "article_date_timestamp": 1650958976.0,
+        "article_title": "Эксперты рассказали, как взломать связанные с VirusTotal сторонние антивирусные песочницы",
+        "article_url": "https://www.securitylab.ru/news/531324.php",
+        "article_desc": "Уязвимость позволяла удаленно выполнять команды через VirusTotal и получать доступ к его различным функциям сканирования."
     },
-    "531278": {
-        "article_date_timestamp": 1650719802.0,
-        "article_title": "Обнаружена критическая уязвимость в Cisco Umbrella VA",
-        "article_url": "https://www.securitylab.ru/news/531278.php",
-        "article_desc": "Удаленный атакующий может создавать собственные административные учетные записи"
+    "531323": {
+        "article_date_timestamp": 1650958462.0,
+        "article_title": "Уязвимость в web-версии Ever Surf позволяла взломать криптокошельки",
+        "article_url": "https://www.securitylab.ru/news/531323.php",
+        "article_desc": "Исследователям удалось получить доступ к хранилищу ключей и расшифровать информацию всего за 38 минут.<br />"
     },
-    "531277": {
-        "article_date_timestamp": 1650713400.0,
-        "article_title": "«Подходы к проектированию подсистем обеспечения безопасности КИИ»",
-        "article_url": "https://www.securitylab.ru/news/531277.php",
-        "article_desc": "Компании Digital Design и Лаборатория Касперского приглашают к участию в вебинаре, который состоится 28 апреля в 11:00."
+    "531321": {
+        "article_date_timestamp": 1650953722.0,
+        "article_title": "Внутренняя кибербезопасность организаций: новые вызовы, новые решения",
+        "article_url": "https://www.securitylab.ru/news/531321.php",
+        "article_desc": "Форум DLP+ 2022: эксперты расскажут, как отразить внутренние угрозы организациям в новой реальности"
     },
-    "531276": {
-        "article_date_timestamp": 1650699383.0,
-        "article_title": "В промышленных продуктах компании Elcomplus обнаружены критические уязвимости",
-        "article_url": "https://www.securitylab.ru/news/531276.php",
-        "article_desc": "Список уязвимостей включает обход пути, межсайтовое выполнение сценариев, произвольную загрузку файлов и пр."
+    "531320": {
+        "article_date_timestamp": 1650952722.0,
+        "article_title": "Conti атаковали организацию по электроснабжению в Коста-Рике",
+        "article_url": "https://www.securitylab.ru/news/531320.php",
+        "article_desc": "ИБ-специалисты пытаются выяснить, похитили ли хакеры какие-либо данные пользователей."
     },
-    "531275": {
-        "article_date_timestamp": 1650689539.0,
-        "article_title": "Банки будут возвращать клиентам украденные деньги в течение 30 дней",
-        "article_url": "https://www.securitylab.ru/news/531275.php",
-        "article_desc": "Регулятор считает, что это позволит соблюсти баланс интересов банков и их клиентов."
+    "531319": {
+        "article_date_timestamp": 1650952039.0,
+        "article_title": "Минцифры планирует создать национальную библиотеку шрифтов",
+        "article_url": "https://www.securitylab.ru/news/531319.php",
+        "article_desc": "Все шрифты в ней будет иметь открытую пользовательскую лицензию."
     },
-    "531274": {
-        "article_date_timestamp": 1650686906.0,
-        "article_title": "Разговоры об импортозамещении: сетевые средства защиты информации «Кода Безопасности»",
-        "article_url": "https://www.securitylab.ru/news/531274.php",
-        "article_desc": "Примите участие во второй онлайн-встречи из цикла «Разговоры об импортозамещении» от «Ростелеком-Солар»"
+    "531322": {
+        "article_date_timestamp": 1650951000.0,
+        "article_title": "Реагирование в действии: Positive Technologies выпустила коммерческую версию PT XDR",
+        "article_url": "https://www.securitylab.ru/news/531322.php",
+        "article_desc": "Решение PT XDR для обнаружения угроз и реагирования на них доступно для заказа пилота и покупки."
     },
-    "531273": {
-        "article_date_timestamp": 1650685050.0,
-        "article_title": "Криптобиржа Binance тайно сотрудничала с российскими спецслужбами",
-        "article_url": "https://www.securitylab.ru/news/531273.php",
-        "article_desc": "Криптобиржа Binance тайно сотрудничала с ФСБ"
+    "531317": {
+        "article_date_timestamp": 1650950807.0,
+        "article_title": "CISA добавило 7 новых CVE в список эксплуатируемых уязвимостей",
+        "article_url": "https://www.securitylab.ru/news/531317.php",
+        "article_desc": "С добавлением новых семи уязвимостей список CISA теперь содержит 654 CVE."
     },
-    "531269": {
-        "article_date_timestamp": 1650622739.0,
-        "article_title": "Cisco исправила три уязвимости в TelePresence, RoomOS и Umbrella VA",
-        "article_url": "https://www.securitylab.ru/news/531269.php",
-        "article_desc": "Их эксплуатация позволяет вызвать состояние отказа в обслуживании и перехватить контроль над уязвимыми системами."
+    "531318": {
+        "article_date_timestamp": 1650950408.0,
+        "article_title": "Новая вредоносная программа Prynt Stealer продается всего за 100 долларов в месяц",
+        "article_url": "https://www.securitylab.ru/news/531318.php",
+        "article_desc": "Как за 100 долларов потерять все личные данные"
     },
-    "531268": {
-        "article_date_timestamp": 1650620716.0,
-        "article_title": "QNAP рассказала, как обезопасить NAS-устройства от атак через уязвимости в Apache HTTP Server",
-        "article_url": "https://www.securitylab.ru/news/531268.php",
-        "article_desc": "В настоящее время QNAP изучает эти уязвимости и готовится вскоре выпустить исправления."
+    "531316": {
+        "article_date_timestamp": 1650948668.0,
+        "article_title": "Хакеры похитили NFT из коллекции Bored Ape Yacht Club на $3 млн",
+        "article_url": "https://www.securitylab.ru/news/531316.php",
+        "article_desc": "Злоумышленники взломали страницу коллекции в Instagram и объявили о «бесплатной раздаче токенов»."
     },
-    "531267": {
-        "article_date_timestamp": 1650617036.0,
-        "article_title": "Пентагон: Starlink на Украине пробился сквозь «электромагнитную атаку»",
-        "article_url": "https://www.securitylab.ru/news/531267.php",
-        "article_desc": "«Мы должны иметь такую маневренность», — сказал представитель Пентагона."
+    "531315": {
+        "article_date_timestamp": 1650946291.0,
+        "article_title": "Операторы Emotet возобновили спам-кампанию после исправления бага в установщике",
+        "article_url": "https://www.securitylab.ru/news/531315.php",
+        "article_desc": "Хакеры прекратили операцию в пятницу ночью, когда обнаружили, что из-за бага заражения не происходило, но быстро все исправили."
     },
-    "531266": {
-        "article_date_timestamp": 1650615041.0,
-        "article_title": "Хакеры забыли забрать криптовалюту на $1 млн после атаки на DeFi-проект",
-        "article_url": "https://www.securitylab.ru/news/531266.php",
-        "article_desc": "Злоумышленники не перевели средства, прежде чем вызвать функцию самоуничтожения смарт-контракта."
+    "531314": {
+        "article_date_timestamp": 1650944058.0,
+        "article_title": "Маск: Мозговой чип Neuralink по сложности сопоставим со смарт-часами",
+        "article_url": "https://www.securitylab.ru/news/531314.php",
+        "article_desc": "По словам Маска, опыт инженеров, полученный во время работы над носимыми гаджетами, пригодится для создания чипа Neuralink."
     },
-    "531265": {
-        "article_date_timestamp": 1650612618.0,
-        "article_title": "Хакеры рассылают рекрутерам резюме с внедренным вредоносным ПО more_eggs",
-        "article_url": "https://www.securitylab.ru/news/531265.php",
-        "article_desc": "Вредоносное ПО предположительно разработано группировкой Golden Chickens."
+    "531313": {
+        "article_date_timestamp": 1650942446.0,
+        "article_title": "Huawei вложила $22 млрд в исследования и разработки для обхода санкций США",
+        "article_url": "https://www.securitylab.ru/news/531313.php",
+        "article_desc": "Huawei имеет более 110 тыс. патентов — самое большое число патентов в мире."
     },
-    "531264": {
-        "article_date_timestamp": 1650608143.0,
-        "article_title": "Кибервымогатели все чаще стали просить выкуп в Monero",
-        "article_url": "https://www.securitylab.ru/news/531264.php",
-        "article_desc": "Анонимные монеты наподобие Monero ставят полную анонимность участников транзакций выше удобства в использовании."
+    "531312": {
+        "article_date_timestamp": 1650937150.0,
+        "article_title": "Илон Маск купил Twitter за 44 млрд долларов",
+        "article_url": "https://www.securitylab.ru/news/531312.php",
+        "article_desc": "Несмотря на нежелание главных акционеров компании продавать Twitter Илону Маску, стороны все-таки пришли к соглашению."
     },
-    "531263": {
-        "article_date_timestamp": 1650604513.0,
-        "article_title": "Уязвимость в ALAC позволяет захватить контроль над миллионами Android-устройств",
-        "article_url": "https://www.securitylab.ru/news/531263.php",
-        "article_desc": "С помощью уязвимости хакеры могут выполнить вредоносный код на устройстве с использованием вредоносного аудиофайла."
+    "531311": {
+        "article_date_timestamp": 1650899737.0,
+        "article_title": "Пользователи NFT- проекта AkuDreams из-за ошибки потеряли 34 млн",
+        "article_url": "https://www.securitylab.ru/news/531311.php",
+        "article_desc": "Почти 34 млн долларов оказались навсегда заблокированы в смарт-контракте и недоступны даже разработчикам"
     }
 }
